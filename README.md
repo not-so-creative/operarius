@@ -39,7 +39,7 @@ Authors
 -------
 This project will be produced by:
 
-1. William Duyck - <> 
+1. William Duyck - <fuzzyfox0@gmail.com> 
 * Eliot Brown - <support@eliotbrown.co.uk>
 
 Known Bugs
