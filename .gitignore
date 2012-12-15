@@ -4,6 +4,7 @@
 *.lock
 *.swp
 *.out
+*.txt
 
 # Compiled source #
 ###################
